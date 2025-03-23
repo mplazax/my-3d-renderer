@@ -1,0 +1,3 @@
+/Users/michalplaza/Documents/personal/my-3d-renderer/cmake-build-debug/CMakeFiles/my_3d_renderer.dir
+/Users/michalplaza/Documents/personal/my-3d-renderer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michalplaza/Documents/personal/my-3d-renderer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
